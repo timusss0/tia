@@ -1,6 +1,18 @@
 <h1 align="center">Hi 👋, I'm Tia mustika ramadhani</h1>
 <h3 align="center">1st semester informatics students at Pembangunan Jaya University</h3>
 
+- 🌱 Junior web developer licensed by the **National Professional Certification Agency**
+
+- I’m currently learning **DevOps in dicoding**
+
+- I’m currently learning **C programming languages.**
+
+- liked java programming language because **it was fun in vocational high school.**
+
+- ⚡ looking for a job in a **junior web developer role**
+
+- 📫 How to reach me? Email : **tia.mustikaramadhani@student.upj.ac.id**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/tia-06a8b5257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tia-06a8b5257" height="30" width="40" /></a>
