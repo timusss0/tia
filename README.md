@@ -11,7 +11,7 @@
 
 - ⚡ looking for a job in a **junior web developer role**
 
-- 📫 How to reach me? Email : **tia.mustikaramadhani@student.upj.ac.id**
+- 📫 How to reach me? Outlook : **tia.mustikaramadhani@student.upj.ac.id**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
