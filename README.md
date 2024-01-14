@@ -3,7 +3,7 @@
 
 - 🌱 Junior web developer licensed by the **National Professional Certification Agency**
 
-- I’m currently learning **Laravel*
+- I’m currently learning **Laravel**
 
 - I’m currently learning **C programming languages.**
 
