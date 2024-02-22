@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tia mustika ramadhani</h1>
-<h3 align="center">1st semester informatics students at Pembangunan Jaya University</h3>
+<h3 align="center">2st semester informatics students at Pembangunan Jaya University</h3>
 
 - 🌱 Junior web developer licensed by the **National Professional Certification Agency**
 
