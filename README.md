@@ -5,13 +5,9 @@
 
 - I’m currently learning **Laravel**
 
-- I’m currently learning **C programming languages.**
-
 - liked java programming language because **it was fun in vocational high school.**
 
 - ⚡ looking for a job in a **junior web developer role**
- 
-- ⚡ My Portofolio **https://tiamustika.my.canva.site/**
 
 - 📫 How to reach me? Outlook : **tia.mustikaramadhani@student.upj.ac.id**
 
