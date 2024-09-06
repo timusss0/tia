@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tia mustika ramadhani</h1>
 <h3 align="center">3st semester informatics students at Pembangunan Jaya University</h3>
 
+- My Portofolio : **https://portofolio-tia.vercel.app/**
+
 - 🌱 Junior web developer licensed by the **National Professional Certification Agency**
 
 - I’m currently learning **Laravel**
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me? Outlook : **tia.mustikaramadhani@student.upj.ac.id**
 
-- My Portofolio : **https://portofolio-tia.vercel.app/**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
