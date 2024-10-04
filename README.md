@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Tia mustika ramadhani</h1>
-<h3 align="center">3st semester informatics students at Pembangunan Jaya University</h3>
+<h1 align="center">Hi 👋, I'm Tia Mustika Ramadhani</h1> 
+<h3 align="center">3rd Semester Informatics Student at Pembangunan Jaya University</h3>
 
-- My Portofolio : **https://portofolio-tia.vercel.app/**
+- My Portfolio: https://portofolio-tia.vercel.app/**
 
-- 🌱 Junior web developer licensed by the **National Professional Certification Agency**
+- 🌱 Specializing in **Laravel as a freelance web developer**
 
-- I’m currently learning **Laravel**
+- 🛠 Participating in **PKM Karsa Cipta 2024 with the SHIP-ALERT (Smart Hazard Identification Protocol): A smart ship accident warning system using LoRa without internet**
 
-- liked java programming language because **it was fun in vocational high school.**
+- 🏆 Certified Junior Web Developer by the National Professional Certification Agency (BNSP)
 
-- ⚡ looking for a job in a **junior web developer role**
+- 📫 How to reach me? **tia.mustikaramadhani@student.upj.ac.id**
 
 - 📫 How to reach me? Outlook : **tia.mustikaramadhani@student.upj.ac.id**
 
