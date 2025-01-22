@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tia Mustika Ramadhani</h1> 
-<h3 align="center">3rd Semester Informatics Student at Pembangunan Jaya University</h3>
 
-- My Portfolio: https://portofolio-tia.vercel.app/**
+- My Portfolio: https://portofolio-tiav3.vercel.app/**
 
 - 🌱 Specializing in **Laravel as a freelance web developer**
 
