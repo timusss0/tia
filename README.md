@@ -4,11 +4,9 @@
 
 - 🌱 Specializing in **Laravel as a freelance web developer**
 
-- 🛠 Participating in **PKM Karsa Cipta 2024 with the SHIP-ALERT (Smart Hazard Identification Protocol): A smart ship accident warning system using LoRa without internet**
-
 - 🏆 Certified Junior Web Developer by the National Professional Certification Agency (BNSP)
 
-- 📫 How to reach me? **tia.mustikaramadhani@student.upj.ac.id**
+- 📫 How to reach me? **tiamustika73@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
