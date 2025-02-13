@@ -6,7 +6,7 @@
 
 - 🏆 Certified Junior Web Developer by the National Professional Certification Agency (BNSP)
 
-- 📫 How to reach me? **tiamustika73@gmail.com**
+- 📫 How to reach me? **mus770101@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
